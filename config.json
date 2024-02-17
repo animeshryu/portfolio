@@ -13,7 +13,7 @@
   "username": "user",
   "hostname": "welcome",
   "password": "888888",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/animeshryu",
   "social": {
     "email": "animeshryu@email.com",
     "github": "animeshryu",
@@ -33,16 +33,16 @@
     ]
   ],
   "colors": {
-    "background": "#f3efe1",
-    "foreground": "#F8DDE5",
+    "background": "black",
+    "foreground": "cyan",
     "banner": "#FF9951",
     "border": {
       "visible": true,
-      "color": "#FFADE2"
+      "color": "white"
     },
     "prompt": {
-      "default": "#A5A7A7",
-      "user": "#FE6BC9",
+      "default": "white",
+      "user": "white",
       "host": "#70FDFF",
       "input": "#FF7685"
     },
