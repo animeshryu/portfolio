@@ -43,16 +43,16 @@
     "prompt": {
       "default": "white",
       "user": "white",
-      "host": "#70FDFF",
-      "input": "#FF7685"
+      "host": "#f3efe1",
+      "input": "white"
     },
     "link": {
-      "text": "#B6AAEE",
+      "text": "white",
       "highlightColor": "#FFADE2",
       "highlightText": "#0C0623"
     },
     "commands": {
-      "textColor": "#FD9BDB"
+      "textColor": "white"
     }
   }
 }
